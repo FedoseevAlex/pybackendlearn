@@ -1,0 +1,19 @@
+Lessons to be done:
+- Classes and OOP
+- Imports and modules
+- Exceptions
+- Python data types and structures
+- Testing: pytest, unittest, doctest
+- Fractions and Decimals
+- Metaclasses
+- Asyncio
+- Functional programming
+- FastAPI
+- Flask
+- SQL
+- Linters
+- GIT
+- OS: Processes and threads
+- Internet: OSI model
+- Sockets
+- Python requests
