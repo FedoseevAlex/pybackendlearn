@@ -1,8 +1,5 @@
 Lessons to be done:
-- Classes and OOP
-- Imports and modules
-- Exceptions
-- Python data types and structures
+- Decorators, context managers
 - Testing: pytest, unittest, doctest
 - Fractions and Decimals
 - Metaclasses
